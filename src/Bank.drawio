@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.3.6">
+<mxfile host="app.diagrams.net" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:140.0) Gecko/20100101 Firefox/140.0" version="29.3.7">
   <diagram name="Page-1" id="0Sm9lcZw9DDDfiVU3XU4">
-    <mxGraphModel dx="1375" dy="796" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
+    <mxGraphModel dx="1146" dy="663" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -84,6 +84,12 @@
         </mxCell>
         <mxCell id="imrCR9xWtzxEHwqdtquj-35" parent="1" style="text;html=1;whiteSpace=wrap;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;rounded=0;" value="[1..1]" vertex="1">
           <mxGeometry height="30" width="60" x="850" y="320" as="geometry" />
+        </mxCell>
+        <mxCell id="wrMkeU4Q8GlWJk98sMvQ-2" edge="1" parent="1" source="wrMkeU4Q8GlWJk98sMvQ-1" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" target="imrCR9xWtzxEHwqdtquj-7" value="">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="wrMkeU4Q8GlWJk98sMvQ-1" parent="1" style="ellipse;whiteSpace=wrap;html=1;align=center;" value="Saldo" vertex="1">
+          <mxGeometry height="40" width="100" x="1050" y="330" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
