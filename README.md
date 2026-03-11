@@ -10,7 +10,7 @@ Die Geld Bank beschäftigt mehrere Kundenberater. Jeder Berater kann mehrere Kun
 
 ### Großhandel
 Entwerfen Sie für einen Großhändler ein Datenbankmodell. Berücksichtigen Sie dabei folgende Punkte:
-* Ein Kunde hat eine Anschrift (Straße, Ort, PLZ, Ansprechpartner).
+* Ein Kunde hat eine Anschrift (Straße, Ort, PLZ) und einen Ansprechpartner.
 * Ein Kunde kann einen Rabatt von 3%, 5% oder 10% erhalten.
 * Die Rabattstufe ist an einem minimalen Jahresumsatz gekoppelt.
 * Eine Ware hat eine Bezeichnung und eine BestellNr.
